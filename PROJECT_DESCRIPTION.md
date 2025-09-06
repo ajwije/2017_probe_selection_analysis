@@ -62,7 +62,10 @@ Identifies optimal probe candidates based on:
 - Alignment characteristics
 
 ## License
-[Your license here]
+Code license:
+This code is licensed under the MIT License. See LICENSE for details.
+Data license:
+The dataset in ml_analysis/data/ is licensed under CC BY 4.0. See DATA_LICENSE for details.
 
 ## Contact
-[Your contact information]
+ajwijeratne.1@gmail.com
