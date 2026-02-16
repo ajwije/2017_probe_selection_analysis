@@ -4,3 +4,22 @@
 .AppleDouble
 **/.AppleDouble
 .LSOverride
+
+# Jupyter / Python caches
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
+
+# Generated analysis artifacts (keep sources, ignore outputs)
+160906_probe_design/*.html
+160906_probe_design/*.pdf
+160906_probe_design/*error*.txt
+
+# Legacy folder (ignored for now)
+160906_probe_design/
+
+# Legacy scratch notebooks
+160906_probe_design/Untitled*.ipynb
+
+# Generated figures
+data/Images/
